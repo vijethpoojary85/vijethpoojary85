@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **vijethpoojary225@gmail.com**
 
-- 📄 Know about my experiences [https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:a287e162-b755-3b0b-9e6e-52855e9d75ef](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:a287e162-b755-3b0b-9e6e-52855e9d75ef)
+- 📄 Know about my experiences [https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:a287e162-b755-3b0b-9e6e-52855e9d75ef](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:1f73159c-1b6d-37fb-a641-ab843bdb4d5a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
