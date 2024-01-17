@@ -6,9 +6,6 @@
 
 - 📫 How to reach me **vijethpoojary225@gmail.com**
 
-- 📄 Know about my experiences ([https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:1f73159c-1b6d-37fb-a641-ab843bdb4d5a](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:fe2fe2ee-b4ac-358f-8381-70fa2852620a))
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vijeth-poojari-a84272229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijeth-poojari-a84272229" height="30" width="40" /></a>
