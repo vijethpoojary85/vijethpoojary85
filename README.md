@@ -14,7 +14,7 @@ I'm always open to new opportunities and challenges, so feel free to connect wit
 </p>
 
 
-<div align="left">Languages and Tools:
+<div align="left">Languages and Tools:<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
