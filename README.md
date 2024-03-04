@@ -16,6 +16,7 @@ I'm always open to new opportunities and challenges, so feel free to connect wit
   <img src="https://profile-counter.glitch.me/vijethpoojary85/count.svg?"  />
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=vijethpoojary85&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="left">Languages and Tools:<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
