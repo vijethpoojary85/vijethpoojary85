@@ -55,7 +55,9 @@ I'm always open to new opportunities and challenges, so feel free to connect wit
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="webflow logo"  />
 </div>
+![](https://github-readme-stats.vercel.app/api?username=vijethpoojary85&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vijethpoojary85&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vijethpoojary85&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- <p align="left">  
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
