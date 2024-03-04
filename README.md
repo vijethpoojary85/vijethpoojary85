@@ -12,9 +12,7 @@ I'm always open to new opportunities and challenges, so feel free to connect wit
 <p align="left">
 <a href="https://linkedin.com/in/vijeth-poojari-a84272229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijeth-poojari-a84272229" height="30" width="40" /></a>
 </p>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vijethpoojary85/count.svg?"  />
-</div>
+
 
 [![](https://visitcount.itsvg.in/api?id=vijethpoojary85&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -57,6 +55,7 @@ I'm always open to new opportunities and challenges, so feel free to connect wit
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="webflow logo"  />
 </div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vijethpoojary85&theme=dark&hide_border=false)<br/>
 
 <!-- <p align="left">  
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
