@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer  from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"> 
 
-🔭 As a Full Stack Web Developer, my goal is to leverage my technical skills, creativity, and passion for coding to design and build innovative and user-friendly web applications. I specialize in MEAN/MERN Stack. I enjoy working on both the front-end and back-end, bringing ideas to life from concept to deployment. I'm constantly exploring new technologies and best practices to enhance my skills and stay up-to-date with the latest trends in web development.
+🔭 As a Software Engineer, my goal is to leverage my technical skills, creativity, and passion for coding to design and build innovative and user-friendly web applications. I specialize in MEAN/MERN Stack. I enjoy working on both the front-end and back-end, bringing ideas to life from concept to deployment. I'm constantly exploring new technologies and best practices to enhance my skills and stay up-to-date with the latest trends in web development.
 
 I'm always open to new opportunities and challenges, so feel free to connect with me! Let's collaborate and create something amazing together.
 
