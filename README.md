@@ -7,7 +7,7 @@
 I'm always open to new opportunities and challenges, so feel free to connect with me! Let's collaborate and create something amazing together.
 
 - 📫 How to reach me **vijethpoojary225@gmail.com**
-- Resume ![Vijeth-Poojari](https://drive.google.com/file/d/1BgUo8CXzMzptkgFxmLbA7AJqOg7Yf4JC/view?usp=drive_link)
+- Resume ![Vijeth-Poojari](https://acrobat.adobe.com/id/urn:aaid:sc:AP:f1da7a8e-e03f-4bf1-841e-b4852bc2e9eb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
